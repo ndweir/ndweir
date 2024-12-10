@@ -1,7 +1,3 @@
-Here’s a more concise version of your README.md, incorporating all your feedback:  
-
----
-
 # PorchFest 🎶  
 
 **PorchFest** is a web application designed to connect bands and venues for the Uptown Porchfest music festival in Minnesota. With PorchFest, bands can find venues using Google Maps, and venues can discover performers by previewing their music through an integrated Spotify player.  
@@ -27,7 +23,3 @@ My background as a teacher gives me strong communication skills, allowing me to 
 
 ## What’s Next?  
 I am collaborating with the Uptown Porchfest organizer to develop **Version 2.0**, featuring enhanced functionality for broader adoption. Our goal is to launch the next version to new users by August 2025!  
-
----  
-
-This version keeps it concise while showcasing your technical, design, and communication skills effectively. Let me know if you’d like to tweak anything further!
