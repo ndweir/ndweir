@@ -14,7 +14,12 @@ My background as a teacher gives me strong communication skills, allowing me to 
 - **Bands**: Discover and explore venues through Google Maps.  
 - **Venues**: Preview artists’ music and plan performances seamlessly.  
 
-[Live Demo 🎥](https://youtu.be/L3whZrqDOaY?si=m4ogIYtjW-PL9rBL)  
+[Live Demo 🎥](https://youtu.be/L3whZrqDOaY?si=m4ogIYtjW-PL9rBL)
+
+## Technologies
+- **Frontend**: React.js, Material UI, Google Maps API, Spotify API, Redux, Saga.  
+- **Backend**: Node.js, Express, PostgreSQL, Bcrypt.js.  
+- **Tools**: Postman, Figma, Trello, GitHub, Chrome DevTools.  
 
 ## Skills Used  
 **Frontend**: React.js, Material UI, Spotify API, Google Maps API  
