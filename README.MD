@@ -1,4 +1,5 @@
-# PorchFest
+![PorchFest](./porchfest.png)
+
 
 PorchFest is a web application designed to connect bands and venues for the Uptown Porchfest music festival. This application empowers bands to find venues using Google Maps and allows venues to explore performers and preview their music through an integrated Spotify player.
 
