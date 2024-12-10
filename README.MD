@@ -1,54 +1,20 @@
 # PorchFest 🎶
 
-**PorchFest** is a web application designed to streamline collaboration between bands and venues for the Uptown Porchfest music festival in Minnesota. This platform makes it easy for bands to discover potential venues using an integrated Google Maps feature, and for venues to explore potential performers by listening to their music via a built-in Spotify player.
+**PorchFest** is a web application built to connect bands and venues for the Uptown Porchfest music festival in Minnesota. Bands can discover potential venues using Google Maps, while venues can explore performers and listen to their music with an integrated Spotify player.
 
 ## Features
+- **Bands**: Browse venues on Google Maps and connect directly with organizers.  
+- **Venues**: Discover artists, listen to their top hits, and plan your lineup effortlessly.  
 
-### For Bands
-- **Venue Discovery**: View and explore venues on an interactive Google Maps interface.
-- **Contact Management**: Simplified communication with venue managers.
+[Live Demo 🎥](https://youtu.be/L3whZrqDOaY?si=m4ogIYtjW-PL9rBL)
 
-### For Venues
-- **Artist Discovery**: Browse potential performers and listen to their top hits using the Spotify Web Playback SDK.
-- **Showcase Management**: Preview artists and plan events seamlessly.
+## Technologies
+- **Frontend**: React.js, Material UI, Google Maps API, Spotify API, Redux, Saga.  
+- **Backend**: Node.js, Express, PostgreSQL, Bcrypt.js.  
+- **Tools**: Postman, Figma, Trello, GitHub, Chrome DevTools.  
 
----
+## Skills Used
+JavaScript (ES6+), CSS, HTML, Axios, Nodemon, Chart.js, Sweet Alert 2, Passport, React-Wavify.
 
-## Live Demo 🎥
-Check out a [live demo](https://youtu.be/L3whZrqDOaY?si=m4ogIYtjW-PL9rBL) of PorchFest in action.
-
----
-
-## Technologies Used
-
-### Frontend
-- **React.js** (with Redux, Saga, Router DOM)
-- **Material UI** for responsive and visually appealing design.
-- **Google Maps API** and **Google Maps Static View API** for mapping functionalities.
-- **Spotify Web Playback SDK** and **Spotify API** for music previews.
-
-### Backend
-- **Node.js** with **Express** for server-side logic.
-- **SQL** and **PostgreSQL** for database management.
-- **Bcrypt.js** for secure user authentication.
-
-### Development Tools
-- **Postman** and **Postico** for API testing and database management.
-- **Figma** for prototyping and design collaboration.
-- **Trello** for project management.
-- **GitHub** for version control.
-- **Chrome Developer Tools** for debugging.
-
----
-
-## Skills Utilized
-- JavaScript (ES6+), CSS, HTML
-- Nodemon, Axios, Passport
-- Chart.js for data visualization
-- Sweet Alert 2 for UI notifications
-- React-Wavify for visual audio waves
-
----
-
-## Version 2.0 🚀
-Version 2.0 is currently in development, featuring enhanced usability and additional tools for an even better experience!
+## What’s Next?
+**Version 2.0** is underway with enhanced features for both bands and venues!
