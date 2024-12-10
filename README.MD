@@ -1,20 +1,33 @@
-# PorchFest 🎶
+Here’s a more concise version of your README.md, incorporating all your feedback:  
 
-**PorchFest** is a web application built to connect bands and venues for the Uptown Porchfest music festival in Minnesota. Bands can discover potential venues using Google Maps, while venues can explore performers and listen to their music with an integrated Spotify player.
+---
 
-## Features
-- **Bands**: Browse venues on Google Maps and connect directly with organizers.  
-- **Venues**: Discover artists, listen to their top hits, and plan your lineup effortlessly.  
+# PorchFest 🎶  
 
-[Live Demo 🎥](https://youtu.be/L3whZrqDOaY?si=m4ogIYtjW-PL9rBL)
+**PorchFest** is a web application designed to connect bands and venues for the Uptown Porchfest music festival in Minnesota. With PorchFest, bands can find venues using Google Maps, and venues can discover performers by previewing their music through an integrated Spotify player.  
 
-## Technologies
-- **Frontend**: React.js, Material UI, Google Maps API, Spotify API, Redux, Saga.  
-- **Backend**: Node.js, Express, PostgreSQL, Bcrypt.js.  
-- **Tools**: Postman, Figma, Trello, GitHub, Chrome DevTools.  
+## Why PorchFest?  
+PorchFest showcases my ability to:  
+- Build intuitive **frontend interfaces** with React, Material UI, and APIs.  
+- Develop scalable **backend systems** with Node.js, Express, and PostgreSQL.  
+- Create custom, user-focused **designs** using Figma.  
 
-## Skills Used
-JavaScript (ES6+), CSS, HTML, Axios, Nodemon, Chart.js, Sweet Alert 2, Passport, React-Wavify.
+My background as a teacher gives me strong communication skills, allowing me to collaborate effectively with technical experts while simplifying complex ideas for non-technical users.  
 
-## What’s Next?
-**Version 2.0** is underway with enhanced features for both bands and venues!
+## Features  
+- **Bands**: Discover and explore venues through Google Maps.  
+- **Venues**: Preview artists’ music and plan performances seamlessly.  
+
+[Live Demo 🎥](https://youtu.be/L3whZrqDOaY?si=m4ogIYtjW-PL9rBL)  
+
+## Skills Used  
+**Frontend**: React.js, Material UI, Spotify API, Google Maps API  
+**Backend**: Node.js, Express, PostgreSQL  
+**Design**: Figma for creating thoughtful, user-centric designs  
+
+## What’s Next?  
+I am collaborating with the Uptown Porchfest organizer to develop **Version 2.0**, featuring enhanced functionality for broader adoption. Our goal is to launch the next version to new users by August 2025!  
+
+---  
+
+This version keeps it concise while showcasing your technical, design, and communication skills effectively. Let me know if you’d like to tweak anything further!
