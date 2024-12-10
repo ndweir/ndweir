@@ -6,7 +6,7 @@
 
 ---
 
-## **Why Hire Nick for Your Next Project?**
+## **Why Hire Me for Your Next Project?**
 
 **PorchFest** showcases my ability to:
 
