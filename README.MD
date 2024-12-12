@@ -25,7 +25,7 @@ As a former teacher, I excel at **communication**—collaborating with technical
 ---
 
 ## **Live Demo 🎥**
-[**Watch the Live Demo**](https://youtu.be/M96dghBqQZE?si=XFvxz96SDG1rbiLN)
+[**Watch the Live Demo**](https://youtu.be/L3whZrqDOaY?si=A5xaGbVybdhCT08U)
 
 ---
 
