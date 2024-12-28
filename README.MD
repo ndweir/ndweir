@@ -2,7 +2,7 @@
 
 ![PorchFest](./porchfest.png)
 
-## **PorchFest(https://github.com/ndweir/porchfest-solo)**
+## [**PorchFest**](https://github.com/ndweir/porchfest-solo)
 
 **PorchFest** is a web application designed to connect bands and venues for the Uptown Porchfest music festival in Minnesota. With PorchFest, bands can easily find venues using Google Maps, and venues can discover performers by previewing their music through an integrated Spotify player.
 
@@ -27,7 +27,7 @@ As a former teacher, I excel at **communication** — collaborating with technic
 
 ---
 
-## **Disability Access Now(https://github.com/ndweir/NDW-Disability-Access-Now)**
+## [**Disability Access Now**](https://github.com/ndweir/NDW-Disability-Access-Now)
 
 **Disability Access Now** is a full-stack web application designed to help people with disabilities apply for Social Security Disability Insurance. Millions of individuals each year with disabilities do not get the services they deserve because they have difficulty applying for benefits on inaccessible websites. Our platform is an all-in-one, accessible, efficient, and personalized website that even allows admins to assist users when all else fails.
 
