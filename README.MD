@@ -6,7 +6,7 @@
 
 **PorchFest** is a web application designed to connect bands and venues for the Uptown Porchfest music festival in Minnesota. With PorchFest, bands can easily find venues using Google Maps, and venues can discover performers by previewing their music through an integrated Spotify player.
 
-### **Why Hire Me for Your Next Project?**
+### **Why You Should Consider Me for Your Next Project**
 
 **PorchFest** showcases my ability to:
 
